@@ -2,7 +2,7 @@
 
 
 # **Tanzania Ministry of Water** - Water Well Functionality  
-### Written by Jun (Andrew) Choi, Dara Estrada, Nicholas Wertz
+### Written by AHMET KARAOGLAN
 #### Flatiron School Phase 3 Project  
 ----
 
